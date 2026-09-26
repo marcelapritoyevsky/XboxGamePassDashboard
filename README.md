@@ -8,7 +8,7 @@
 
 -->
 
-<img src="./XboxGamePassDashboard/CAPA.jpg"
+<img src="./CAPA.jpg"
      alt="Dashboard Xbox Game Pass"
      width="850">
 -->
