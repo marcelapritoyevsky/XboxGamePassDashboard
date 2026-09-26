@@ -12,10 +12,7 @@ e mantenha os nomes abaixo, ou altere os caminhos.
 ===========================================================
 -->
 
-<!--
-Se preferir utilizar apenas uma imagem principal, substitua o bloco acima por:
-
-<img src="./assets/dashboard-preview.png"
+<img src="./XboxGamePassDashboard/CAPA.jpg"
      alt="Dashboard Xbox Game Pass"
      width="850">
 -->
