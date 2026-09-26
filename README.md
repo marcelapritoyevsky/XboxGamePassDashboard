@@ -17,7 +17,7 @@
 
 ---
 
-## 📊 Sobre o projeto
+## Sobre o projeto
 
 Este projeto consiste na criação de um **Dashboard de análise de vendas e assinaturas do Xbox Game Pass**, desenvolvido no **Microsoft Excel**.
 
