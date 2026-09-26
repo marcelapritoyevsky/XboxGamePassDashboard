@@ -5,11 +5,7 @@
 ### Dashboard de análise de vendas e assinaturas desenvolvido em Excel
 
 <!--
-===========================================================
-FOTOS DE DESTAQUE DO PROJETO
-Coloque as imagens na pasta /assets do repositório
-e mantenha os nomes abaixo, ou altere os caminhos.
-===========================================================
+
 -->
 
 <img src="./XboxGamePassDashboard/CAPA.jpg"
